@@ -1,0 +1,31 @@
+{
+    "token": "",
+    "channels": {
+        "guildid": "",
+        "welcome": "",
+        "goodbye": ""
+    },
+    "text": {
+        "welcome": "",
+        "goodbye": ""
+    },
+    "embeds": {
+        "enabled": false,
+        "welcome": {
+            "title": "",
+            "description": "",
+            "color": ""
+        },
+        "goodbye": {
+            "title": "",
+            "description": "",
+            "color": ""
+        }
+    },
+    "status": {
+        "activity-tip": "any text possible",
+        "activity": "By SkyOMC",
+        "status-tip": "Statuses can be (idle, dnd, offline, online)",
+        "status": "idle"
+    }
+}
